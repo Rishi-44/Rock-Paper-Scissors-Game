@@ -12,9 +12,8 @@ A simple, interactive command-line game built with Python that allows a user to 
 * **Language:** Python 3.x
 * **Libraries:** `random` (Standard Library)
 
-## 📺 Demo
-*Check out my video explanation and walk-through of the project here:*
-[Link your video here, or upload it to the repo and link it!]
+## 🕹️ Game Demo
+![Rock Paper Scissors Demo](./game.gif)
 
 ## 📖 How to Run
 1. Ensure you have Python installed.
