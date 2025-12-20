@@ -9,7 +9,7 @@ A simple, interactive command-line game built with Python that allows a user to 
 * **Replayability:** A continuous loop that allows the user to play multiple rounds without restarting the script.
 
 ## 🛠️ Tech Stack
-* **Language:** Python 3.x
+* **Language:** Python 3.10
 * **Libraries:** `random` (Standard Library)
 
 ## 🕹️ Game Demo
